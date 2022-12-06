@@ -1,0 +1,33 @@
+.sidebar {
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+  background-color: #333;
+  padding: 0 10px;
+}
+
+.sidebar li {
+  list-style: none;
+}
+
+.sidebar li a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  padding: 10px 20px;
+  font-size: 1em;
+  cursor: pointer;
+  display: block;
+}
+
+.sidebar li a:hover {
+  background-color: rgb(255, 255, 255);
+  color: #333;
+}
+
+.sidebar li a:active {
+  transform: translateY(2px);
+}

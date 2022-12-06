@@ -1,0 +1,39 @@
+.image-carousel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  width: 100%; /* Set carousel width to 100% of the viewport */
+  max-width: 100%; /* Set maximum carousel width to prevent content from stretching beyond the viewport */
+  height: 100%; /* Set carousel height to 100% of the viewport */
+  max-height: 100%; /* Set maximum carousel height to prevent content from stretching beyond the viewport */
+  overflow: hidden; /* Hide scrollbars for carousel content that overflows the carousel */
+}
+
+  
+  .image-carousel img {
+    margin-top: 5%;
+  margin-bottom: 10px;
+  width: 200px;
+  height: 300px;
+  object-fit: contain;
+  box-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+  }
+  
+  .description {
+  text-align: center;
+  width: 200px;
+  }
+  
+  .previous-button,
+  .next-button {
+  font-size: 24px;
+  border: none;
+  background: none;
+  color:white;
+  box-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+  }
+  
+  .previous-button {
+  margin-right: 10px;
+  } 

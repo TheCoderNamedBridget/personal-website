@@ -1,0 +1,25 @@
+
+.employment-card {
+  width: 300px;
+  height: 800px;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid #ccc;
+
+  /* Use flexbox to center content within the employment-card element */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.employment-card img {
+  width: 100%;
+  height: 60%;
+  object-fit: contain;
+}
+
+.employment-card p {
+  margin: 0;
+  padding: 0;
+}

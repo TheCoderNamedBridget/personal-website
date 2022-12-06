@@ -1,0 +1,23 @@
+.table {
+  display: flex; /* Use flexbox to evenly distribute YouTubeCard elements within the table */
+  justify-content: space-between;
+
+  width: 100%; /* Set table width to 100% of the viewport */
+  max-width: 100%; /* Set maximum table width to prevent content from stretching beyond the viewport */
+  height: 100vh;
+  max-height: 100%; /* Set maximum table height to prevent content from stretching beyond the viewport */
+}
+
+.YouTubeCard {
+  border: 1px solid #ccc;
+
+  /* Use flexbox to center content within the YouTubeCard element */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#title{
+  text-align: center;
+}
