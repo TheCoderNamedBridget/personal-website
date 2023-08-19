@@ -1,0 +1,54 @@
+
+[
+    {
+        "name" : "BrownSweater", 
+        "content"
+        :[{  
+            "image":       "sonoo",   
+            "price":      10,   
+            "link":    "https:/amazon/link",
+            "description": "soft, thin sweater"
+        },
+        {  
+            "image":       "sonoo",   
+            "price":      200,   
+            "link":    "https:/amazon/differentlink",
+            "description": "thick, wooly sweater"
+        }
+        ]
+    },
+    {
+        "name" : "Comb", 
+        "content"
+        :[{  
+            "image":       "comb",   
+            "price":      10,   
+            "link":    "https:/amazon/link",
+            "description": "small slim"
+        },
+        {  
+            "image":       "comb2",   
+            "price":      200,   
+            "link":    "https:/amazon/differentlink",
+            "description": "thick luxury"
+        }
+        ]
+    },{
+        "name" : "WoodenDuck", 
+        "content"
+        :[{  
+            "image":       "duck",   
+            "price":      10,   
+            "link":    "https:/amazon/link",
+            "description": "small slim"
+        },
+        {  
+            "image":       "duck",   
+            "price":      200,   
+            "link":    "https:/amazon/differentlink",
+            "description": "thick luxury"
+        }
+        ]
+    } 
+]
+    

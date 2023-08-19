@@ -15,7 +15,7 @@ export const MERAKI_DESCRIPTION2 =
 "As an intern at Cisco Meraki, I was given the opportunity to work on the Secure Connect team, where I was responsible for building the foundation of a new billing system for one of our features. It was an incredibly challenging and rewarding experience, as I had to learn new technologies and work closely with my team to ensure that the system was reliable and effective. In addition to the technical skills I gained during my internship, I also had the chance to work with a talented and dedicated team of professionals. I was impressed by the company's commitment to innovation and excellence, and I enjoyed the collaborative and supportive culture at Cisco Meraki. Overall, it was a fantastic summer, and I feel grateful for the opportunities and experiences I had during my internship."
 
 export const AKAMAI_DESCRIPTION = 
-"As an intern at Akamai, I helped shut down unused servers and save the company money. My work saved an estimated $5,000 to $10,000 per year. I gained valuable experience and skills, and worked with talented professionals. I enjoyed my time at Akamai and am grateful for the opportunities and support I received."
+"00 per year. I gained valuable experience and skills, and worked with talented professionals. I enjoyed my time at Akamai and am grateful for the opportunities and support I received."
 
 export const MERAKI_DESCRIPTION =
 "As an intern at Cisco Meraki, I worked on the Secure Connect team and built the foundation of a new billing system. I gained valuable technical skills and had the chance to work with a dedicated team. I was impressed by the company's focus on innovation and excellence, and I really enjoyed the collaborative and supportive culture at Cisco Meraki. Overall, it was a fantastic internship."
@@ -30,3 +30,10 @@ export const TIC_TAC_TOE_APP2 =
 
 export const TIC_TAC_TOE_APP =
 "I created this app a long time ago, but it's still a great way to enjoy the classic game of tic tac toe. It has a simple design, easy controls, and different game modes to challenge you as you improve. When I first made this app, it was pretty challenging. But now, it's perfect for anyone who wants to learn the basics or just have some fun. Give it a try and see for yourself. And who knows - you might even become a tic tac toe master!"
+
+
+export const PRODUCT_DESCRIPTION_SHIRT = 
+"Extra soft, great for the winter"
+
+export const PRODUCT_DESCRIPTION_PANTS = 
+"Extra sturdy, great for the workshop stuff"

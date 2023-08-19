@@ -1,0 +1,33 @@
+
+.product-card {
+  width: 50%;
+  height: 50%;
+  margin: 10px;
+  padding: 10px;
+  border: 5px solid #ccc;
+
+  /* Use flexbox to center content within the Product-card element */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.product-card img {
+  width: 100%;
+  height: 60%;
+  object-fit: contain;
+}
+
+.product-card p {
+  margin: 0;
+  padding: 0;
+  color:black
+}
+
+.product-card h1 {
+  margin: 0;
+  padding-bottom: 5%;
+  color:black
+}
+
