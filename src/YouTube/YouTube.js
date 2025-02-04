@@ -1,6 +1,6 @@
 import React from 'react';
 import YouTubeCard from './YouTubeCard';
-import './Table.css';
+import '../Table.css';
 import './YouTubeCard.css'
 
 function YouTube() {

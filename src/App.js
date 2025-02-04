@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
 import pic from './assets/Images/ProfilePic.jpg';
-import NavBar from './NavBar';
-import Projects from './Projects';
-import Employment from './Employment';
-import Footer from './Footer';
-import Profile from './Profile';
-import YouTube from './YouTube';
+import NavBar from './Nav/NavBar';
+import Projects from './Project/Projects';
+import Employment from './Employment/Employment';
+import Footer from './Footer/Footer';
+import Profile from './Profile/Profile';
+import YouTube from './YouTube/YouTube';
 
 function App() {
   return (

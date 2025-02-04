@@ -1,6 +1,6 @@
 import React from 'react';
 import './Profile.css';
-import {FULL_NAME, ABOUT} from './constants';
+import {FULL_NAME, ABOUT} from '../constants';
 
 function Profile(props) {
   return (

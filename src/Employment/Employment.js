@@ -1,10 +1,10 @@
 import React from 'react';
-import './Table.css';
+import '../Table.css';
 import './Employment.css';
-import { AKAMAI_DESCRIPTION, MERAKI_DESCRIPTION } from './constants';
+import { AKAMAI_DESCRIPTION, MERAKI_DESCRIPTION } from '../constants';
 import EmploymentCard from './EmploymentCard';
-import akamaipic from './assets/Images/Employment/Akamai.jpeg';
-import merakipic from './assets/Images/Employment/Meraki.jpeg';
+import akamaipic from '../assets/Images/Employment/Akamai.jpeg';
+import merakipic from '../assets/Images/Employment/Meraki.jpeg';
 
 function Employment() {
   return (

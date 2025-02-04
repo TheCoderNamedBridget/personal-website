@@ -1,13 +1,12 @@
 import React from 'react';
 import './Footer.css';
-import LinkedInLogo from './assets/Images/Footer/Linkedin.png'; 
-import GithubLogo from './assets/Images/Footer/Github.png'; 
-import YouTubeLogo from './assets/Images/Footer/YouTube.jpg'; 
+import LinkedInLogo from '../assets/Images/Footer/Linkedin.png'; 
+import GithubLogo from '../assets/Images/Footer/Github.png'; 
+import YouTubeLogo from '../assets/Images/Footer/YouTube.jpg'; 
 
 function Footer() {
   return (
     <footer>
-      <h1>This page was generated with the help of OpenAI GPT</h1>
       <a href="https://github.com/TheCoderNamedBridget" className="github-button">
         <img src={GithubLogo} alt="GitHub logo"/>
       </a>
